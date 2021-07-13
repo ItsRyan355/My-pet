@@ -30,5 +30,11 @@ nav ul li {
     padding-right: 20px;
 }
 
+nav ul li a:hover {
+    background-color: cornsilk;
+    color: black;
+    text-decoration: underline;
+}
+
 
 
